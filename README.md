@@ -34,7 +34,7 @@ Key features:
 - API key authentication
 - Rate limiting protection
 
-🔗 Live API: https://scholariq-ai.onrender.com/docs
+🔗 Live API: https://scholariq-ai.onrender.com/docs 
 📁 Repository: https://github.com/CynthiaKaluson/scholariq-ai
 
 ---
