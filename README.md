@@ -35,6 +35,7 @@ Key features:
 - Rate limiting protection
 
 🔗 Live API: https://scholariq-ai.onrender.com/docs 
+
 📁 Repository: https://github.com/CynthiaKaluson/scholariq-ai
 
 ---
