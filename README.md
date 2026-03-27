@@ -1,6 +1,8 @@
 # Hi, I'm Cynthia 👋🏽
 Backend developer focused on building reliable, AI-powered systems.
 I enjoy working on API architecture, automation, and intelligent tools that solve real problems.
+---
+My portfolio link: https://cynthia-kalu-o-portfolio.netlify.app/
 
 ---
 
